@@ -1,6 +1,11 @@
 # HunPolynomial Project
 
-The `HunPolynomial` is a class that represents polynomials with integer coefficients and a single variable x, following specific formatting rules. It allows polynomial operations such as addition, subtraction, multiplication, and evaluation at a specific point.
+The `HunPolynomial` class represents polynomials with integer coefficients and a single variable x, following specific formatting rules. It facilitates polynomial operations such as addition, subtraction, multiplication, and evaluation at a specific point.
+
+## Overview
+
+This C++ class is designed to handle polynomials in a format where coefficients are represented in a vector of integers. The class follows specific rules for polynomial representation and printing.
+
 
 ## File Structure
 

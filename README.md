@@ -1,5 +1,7 @@
 # HunPolynomial Project
 
+Created by: Ali Faiyaz
+
 The `HunPolynomial` class represents polynomials with integer coefficients and a single variable x, following specific formatting rules. It facilitates polynomial operations such as addition, subtraction, multiplication, and evaluation at a specific point.
 
 ## Overview
